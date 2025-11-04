@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+.project1/secrets.toml
+.env
